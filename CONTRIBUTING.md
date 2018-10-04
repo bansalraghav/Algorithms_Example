@@ -49,6 +49,7 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 	Thanks to everyone for contributing to the repo.
 
 - [Thuvarakan](https://github.com/Thuva4)
+- [christianbender](https://github.com/christianbender)
 - [octamois](https://github.com/octamois)
 - [abdatta](https://github.com/abdatta)
 - [Astrophilic](https://github.com/Astrophilic)
@@ -164,6 +165,7 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 - [Aniket Joshi](https://github.com/aniket7joshi)
 - [kuldeepdadhich](https://github.com/kuldeepdadhich)
 - [HimanshuAwasthi95](https://github.com/HimanshuAwasthi95)
+- [Chinmay Chandak](https://github.com/CCAtAlvis)
 - [Suman Chaurasia](https://github.com/bzero0)
 - [Patrick Fischer](https://github.com/patFish)
 - [ServinDC](https://github.com/ServinDC)
@@ -171,3 +173,4 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 - [Irshad Ismayil](https://github.com/irshadshalu)
 - [BrianChen](https://github.com/brianchen)
 - [S Ramakrishnan](https://github.com/sramakrishnan247)
+- [Atalanttore](https://github.com/Atalanttore)
